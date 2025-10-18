@@ -23,8 +23,8 @@ This book helps readers overcome social awkwardness, build confidence, and maste
 ---
 
 ## 🧰 Resources
-- 📄 [Book Access Guide (PDF)](Book%20Access%20Guide.pdf)  
-- 🖼️ [Launch Posters](Promotional%20Poster.jpeg)  
+- 📄 ![Book Access Guide (PDF)](Book%20Access%20Guide.pdf)  
+- 🖼️ ![Launch Posters](Promotional%20Poster.jpeg)  
 
 ---
 
