@@ -7,7 +7,7 @@ Communication is not just about speaking — it’s about connecting.
 This book helps readers overcome social awkwardness, build confidence, and master the art of meaningful conversation in both personal and professional life.
 
 📘 **Available on Amazon Kindle:**  
-👉 [Book Cover](BookCover.png) <br>
+👉 [Book Cover](Book%20Cover.png) <br>
 [Read Now](https://amzn.in/d/bbdx3H8)
 
 ---
@@ -23,8 +23,8 @@ This book helps readers overcome social awkwardness, build confidence, and maste
 ---
 
 ## 🧰 Resources
-- 📄 [Book Access Guide (PDF)](BookAccessGuide.pdf)  
-- 🖼️ [Launch Posters](PromotionalPoster.jpeg)  
+- 📄 [Book Access Guide (PDF)](Book%20Access%20Guide.pdf)  
+- 🖼️ [Launch Posters](Promotional%20Poster.jpeg)  
 
 ---
 
